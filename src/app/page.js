@@ -76,7 +76,7 @@ export default function Home() {
       <div className="flex justify-center w-full Benefits of AI" >
         <div className="w-full sm:w-2/3 md:w-1/2 lg:w-[50%] ml-0 md:ml-[-150px] p-4">
           <h1 className="text-[50px] sm:text-[60px] md:text-[70px] font-bold hello">
-            We Build AI Automations  <Typewriter 
+            We Build AI Automations For <Typewriter 
   onInit={(typewriter) => { 
     const typeAndDelete = () => {
       typewriter
