@@ -429,11 +429,11 @@ export default function Home() {
                     Strategy
                   </div>
                   <div className="card-body text-left text-[18px]">
-                    After understanding your needs, we'll set up a follow-up
-                    call to present our proposal. This will cover the expected
-                    deliverables, implementation strategy, timelines and pricing
-                    details.
-                  </div>
+  After understanding your needs, we&apos;ll set up a follow-up
+  call to present our proposal. This will cover the expected
+  deliverables, implementation strategy, timelines and pricing
+  details.
+</div>
                 </Card>
               </Col>
               <Col xs={24} sm={12} md={8} lg={8}>
@@ -450,7 +450,7 @@ export default function Home() {
                   </div>
                   <div className="card-body text-left text-[18px]">
                     After receiving your go-ahead, our team will start the
-                    process, ensuring you're updated throughout and maintaining
+                    process, ensuring you&apos;re updated throughout and maintaining
                     close collaboration via our Slack channel.
                   </div>
                 </Card>
