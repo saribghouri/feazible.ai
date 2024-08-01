@@ -288,7 +288,7 @@ export default function Home() {
                 <Card
                   title={
                     <div className=" text-start text-[24px] mt-[20px] font-bold">
-                      Competitive Advantage
+                     Chatbot Development
                     </div>
                   }
                   bordered={false}
@@ -321,7 +321,7 @@ export default function Home() {
                 <Card
                   title={
                     <div className="text-start text-[24px] mt-[20px] font-bold">
-                      Intuitive Accuracy
+                     Workflow Automations
                     </div>
                   }
                   bordered={false}
@@ -353,7 +353,7 @@ export default function Home() {
                 <Card
                   title={
                     <div className="text-start text-[24px] mt-[20px] font-bold">
-                      Improved Efficiency
+                     Individual Consulting
                     </div>
                   }
                   bordered={false}
@@ -522,7 +522,7 @@ export default function Home() {
               </div>
               <div className="flex justify-center items-center w-full flex-col mt-4">
                 <h1 className="text-[16px] md:text-[20px] font-semibold mt-[20px] mb-[20px]">
-                  Titus
+               Andre
                 </h1>
                 <p className="text-sm md:text-base px-4">
                   Bohdan is a seasoned entrepreneur with a decade of expertise
